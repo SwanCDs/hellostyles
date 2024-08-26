@@ -1,0 +1,19 @@
+.big {
+    font-size: 40px;
+    position: relative;
+    left: 45%;
+}
+.control {
+    position: relative;
+    width: 140px;
+    left: 50%;
+}
+.butt {
+    position: relative;
+    left: 50%;
+    
+}
+body {
+    background-color: aqua;
+    border: 0dvbs;
+}
